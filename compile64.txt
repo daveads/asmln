@@ -1,0 +1,7 @@
+# nasm -f elf64 hello.asm -o hello1.o
+
+ ld -s -o hello hello.o //linking
+
+64 bit loader
+
+
