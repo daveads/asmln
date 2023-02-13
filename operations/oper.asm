@@ -1,5 +1,5 @@
 section .data
-    a dd 1
+    a dd 1 ; dd 64bit
     b dd 2
     c dd 3
     d dd 4
